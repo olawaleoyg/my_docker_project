@@ -14,6 +14,9 @@
 
 - run the script to create your container ($./script.sh)
 
+- This same script help to push to dockerhub.
+
+- update your .env file to get your dockerhub repository name
 ```
 
 ### Dockerfile explanation
